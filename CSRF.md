@@ -1,5 +1,6 @@
 After the administrator logged in, open the following page
 
+```
 <html>
   <body>
   <script>history.pushState('', '', '/')</script>
@@ -49,3 +50,4 @@ After the administrator logged in, open the following page
     </form>
   </body>
 </html>
+```
